@@ -41,18 +41,6 @@ A drill-through page for one selected habit showing:
 - Performance by day of week
 - Monthly summary
 
-## Files
-
-```text
-Habit-Tracker-PowerBI/
-├── README.md
-├── Habit_Tracker_Dashboard.pbix
-├── Habit_Tracker_PowerBI_Template.xlsx
-└── screenshots/
-    ├── overview.png
-    └── habit-detail.png
-```
-
 ## Quick start
 
 1. Download `Habit_Tracker_Dashboard.pbix` and `Habit_Tracker_PowerBI_Template.xlsx`.
